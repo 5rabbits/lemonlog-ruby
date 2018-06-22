@@ -1,1 +1,2 @@
-# lemonlog-ruby
+# Ruby Client
+
